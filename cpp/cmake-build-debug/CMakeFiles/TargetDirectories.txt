@@ -1,3 +1,0 @@
-C:/Users/10528/Desktop/DS_Algorithms/cpp/cmake-build-debug/CMakeFiles/array.dir
-C:/Users/10528/Desktop/DS_Algorithms/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/10528/Desktop/DS_Algorithms/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

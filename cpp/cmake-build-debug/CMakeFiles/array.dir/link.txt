@@ -1,3 +1,0 @@
-E:\Jetbrains\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\array.dir/objects.a
-C:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\array.dir/objects.a @CMakeFiles\array.dir\objects1.rsp
-C:\PROGRA~1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\array.dir/objects.a -Wl,--no-whole-archive -o array.exe -Wl,--out-implib,libarray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\array.dir\linklibs.rsp
