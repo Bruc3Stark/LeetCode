@@ -1,1 +1,1 @@
-# Data Structure & Algorithms Implementation in C++, Java, Python, Golang and JavaScript.
+# LeetCode Solutions in C++, Java, Kotlin, Python, Golang and JavaScript.
