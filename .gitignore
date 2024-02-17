@@ -1,0 +1,8 @@
+.idea/
+out/
+cpp/.idea/
+golang/.idea/
+java/.idea/
+javascript/.idea/
+kotlin/.idea/
+python/.idea/
